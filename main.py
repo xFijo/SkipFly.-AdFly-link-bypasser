@@ -22,7 +22,7 @@ from pystyle import Colorate, Colors, Write, Box
 
 from tkinter import *
 
-# print(Colorate.Horizontal(Colors.red_to_white, f"Failed to open Proxies.txt"))
+
 
 def clear():
         os.system('cls')
