@@ -20,9 +20,6 @@ from colorama import init
 from colorama import Fore, Style
 from pystyle import Colorate, Colors, Write, Box
 
-from tkinter import *
-
-
 
 def clear():
         os.system('cls')
